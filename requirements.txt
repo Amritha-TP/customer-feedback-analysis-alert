@@ -9,5 +9,4 @@ fastapi
 uvicorn
 matplotlib
 seaborn
-gensim
 requests
